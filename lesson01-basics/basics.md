@@ -236,7 +236,7 @@ print(my_list) # -> ['a', 'b', 'potato', 1, 2, 3, 'tomato']
 ```
 
 #
-## :computer: :warning: :non-potable-water: Challenge Round!! :biohazard: :radioactive: :do_not_litter:
+## :computer: :warning: :non-potable_water: Challenge Round!! :biohazard: :radioactive: :do_not_litter:
 - Create a program which does the following:
 - Initialize (stores in a variable) a list of some made up stock prices, for example `[10.2, 11.3, 11.6, 12.0, 13.6, 15.12, 14.2, 11.8]`
 - Determine how much profit a buy-and-hold strategy would make if you bought one hundred stocks at the beginning of this made-up period and sold all one hundred and the end of this period. (Hint: If you don't feel like counting to get the last element of the list, you can use the index `-1` to get the last element).
