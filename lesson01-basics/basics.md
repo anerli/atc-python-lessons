@@ -235,6 +235,13 @@ my_list.append('tomato')
 print(my_list) # -> ['a', 'b', 'potato', 1, 2, 3, 'tomato']
 ```
 
+# Input
+- Here is how to get text input from the user running your program from the terminal:
+```
+thing = input('Give me a thing please: ')
+print(thing)
+```
+
 #
 ## :computer: :warning: :non-potable_water: Challenge Round!! :biohazard: :radioactive: :do_not_litter:
 - Create a program which does the following:
@@ -243,4 +250,5 @@ print(my_list) # -> ['a', 'b', 'potato', 1, 2, 3, 'tomato']
 - Store this profit value in some variable.
 - Print it out with some text describing what it is, e.g. `Profit: $x.xx`.
 - Ask for help if you can't figure it out!
+- BONUS: Instead of simulating buying and selling 100 stocks, calculate the profit with `n` stocks, where `n` is some input number you collect from the user using the `input()` function.
 #
