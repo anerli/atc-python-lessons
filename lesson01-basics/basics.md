@@ -29,3 +29,28 @@ print('Hello World!')
 ```
 Hello World!
 ```
+
+## Variables & Operations
+- Variables 'hold' data
+- This data can come in many forms, for example numbers, letters/words (strings), and lists.
+
+### [Example](variables.py)
+```
+x = 5
+y = 6
+```
+- Here we put the value 5 in x and the value 6 in y
+
+If we print these out, we can see what they contain:
+
+```
+print(x)
+```
+> Result: 5
+
+We can also do mathematical operations with number variables, e.g.:
+```
+z=x+y
+print(z)
+```
+> Result: 11
