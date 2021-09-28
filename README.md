@@ -10,3 +10,6 @@ Click on a lesson below to get started.
 
 ## [Lesson 1: Basics](lesson01-basics/basics.md)
 - Learn the basics of Python including variables, data types, lists, and input.
+
+## [Lesson 2: Loops and Functions and Stuff](lesson02-loopsnfunctions/lesson02.md)
+- Learn `while` and `for` loops, functions, and some other stuff.
