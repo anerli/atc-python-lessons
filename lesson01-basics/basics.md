@@ -255,3 +255,16 @@ This will prompt the user who runs the python script with `Give me a thing pleas
 - Ask for help if you can't figure it out!
 - BONUS: Instead of simulating buying and selling 100 stocks, calculate the profit with `n` stocks, where `n` is some input number you collect from the user using the `input()` function.
 #
+
+> Shhh...
+
+>! If you can't figure it out, here is an [example solution](challenge_example_solution.py) Don't look at it until you've tried!
+
+<!DOCTYPE html>
+<body>
+    <details>
+        <summary>Shhh...</summary>
+        <p>If you can't figure it out, here is an <a href="challenge_example_solution.py">example solution</a>. Don't look at it until you've tried!</p>
+    </details>        
+</body>
+</html>
