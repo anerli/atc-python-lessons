@@ -241,6 +241,9 @@ print(my_list) # -> ['a', 'b', 'potato', 1, 2, 3, 'tomato']
 thing = input('Give me a thing please: ')
 print(thing)
 ```
+This will prompt the user who runs the python script with `Give me a thing please: ` and will then wait for them to enter something.
+
+> The type returned by `input()` is always a string. However, this can be cast to whatever you want. For example, you can take `x=int(input('Give me a number: '))` if you want a number as input
 
 #
 ## :computer: :warning: :non-potable_water: Challenge Round!! :biohazard: :radioactive: :do_not_litter:
